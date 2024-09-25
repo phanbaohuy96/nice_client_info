@@ -1,3 +1,7 @@
+## 2.1.0
+
+* Support flutter version 3.24
+  
 ## 2.0.0
 
 * Remove device id. Please visit to easy_device_id.
