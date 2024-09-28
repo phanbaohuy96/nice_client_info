@@ -1,3 +1,7 @@
+## 2.1.1
+
+* Upgrade device_info_plus
+
 ## 2.1.0
 
 * Support flutter version 3.24

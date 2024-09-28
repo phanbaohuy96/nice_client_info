@@ -1,6 +1,6 @@
 name: nice_client_info
 description: Nice client info package that provide some device info and app info
-version: 2.1.0
+version: 2.1.1
 homepage: https://github.com/phanbaohuy96
 repository: https://github.com/phanbaohuy96/nice_client_info
 
@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  device_info_plus: ^9.0.3
+  device_info_plus: ^10.1.2
   package_info_plus: ^8.0.2
 
 dev_dependencies:
