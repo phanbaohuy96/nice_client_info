@@ -1,3 +1,6 @@
+## 2.2.0
+* Upgrade device_info_plus version to ^11.3.0
+
 ## 2.1.1
 
 * Upgrade device_info_plus
