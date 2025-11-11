@@ -1,3 +1,7 @@
+## 2.3.0
+* Upgrade package_info_plus version to 9.0.0
+* Upgrade device_info_plus version to 11.3.0
+
 ## 2.2.0
 * Upgrade device_info_plus version to ^11.3.0
 
