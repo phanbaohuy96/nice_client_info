@@ -1,6 +1,6 @@
 name: nice_client_info
 description: Nice client info package that provide some device info and app info
-version: 2.2.0
+version: 2.3.0
 homepage: https://github.com/phanbaohuy96
 repository: https://github.com/phanbaohuy96/nice_client_info
 
@@ -13,12 +13,12 @@ dependencies:
     sdk: flutter
 
   device_info_plus: ^11.3.0
-  package_info_plus: ^8.0.2
+  package_info_plus: ^9.0.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^5.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
